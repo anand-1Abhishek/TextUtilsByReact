@@ -5,3 +5,7 @@
 .form-control{
   border-color: rgb(184, 184, 241);
 }
+.preview{
+  border: 2px;
+  border-color: rgb(184, 184, 241);
+}
